@@ -22,7 +22,7 @@
     </repositories>
     <!--设置公共的版本号-->
     <properties>
-        <hadoop.version>2.6.0-cdh5.15.1</hadoop.version>
+        <hadoop.version>2.7.3.2.6.5.0-292</hadoop.version>
     </properties>
 
     <dependencies>
